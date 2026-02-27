@@ -1,12 +1,41 @@
-# React + Vite
+# Benjamin Franklin High School Website
+A modern, responsive high school website built with React and Vite as part of a real freelance project.
+The website was fully designed and developed from scratch, including layout, color palette, and component structure.
+Some content has been modified or partially fictionalized for security and privacy reasons, while preserving the overall structure and functionality of the real project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+https://benjamin-franklin.vercel.app
 
-Currently, two official plugins are available:
+## Key Features
+- Fully custom UI and layout designed specifically for the school
+- Responsive design for desktop and mobile devices
+- Modular React component architecture
+- Video integration
+- Clean navigation and multi-page structure
+- Scalable structure suitable for real-world clients
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+React
+Vite
+JavaScript (ES6+)
+HTML5
+CSS
+(All functionality and interactivity implemented using React’s core features.)
 
-## Expanding the ESLint configuration
+## Design & Customization
+- Custom color palette and branding
+- Fully original layout and component structure
+- Designed to reflect an educational institution’s identity
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Context
+This project was developed as professional freelance work for a real high school.
+It represents one of my most complete front-end projects, combining:
+- Real client-style requirements
+- Full website structure and navigation
+- Attention to usability and presentation
+- Production deployment using Vercel
+
+The repository showcases the template and structure of the project, with sensitive or private information adjusted for public sharing.
+
+## Note
+This project represents real-world development experience, not a tutorial or sample project.
