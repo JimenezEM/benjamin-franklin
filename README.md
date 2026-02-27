@@ -1,5 +1,5 @@
 # Benjamin Franklin High School Website
-A modern, responsive high school website built with React and Vite as part of a real freelance project.
+A responsive high school website built with React and Vite.
 The website was fully designed and developed from scratch, including layout, color palette, and component structure.
 Some content has been modified or partially fictionalized for security and privacy reasons, while preserving the overall structure and functionality of the real project.
 
