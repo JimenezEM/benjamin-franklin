@@ -37,5 +37,5 @@ It represents one of my most complete front-end projects, combining:
 
 The repository showcases the template and structure of the project, with sensitive or private information adjusted for public sharing.
 
-## Note
+## Notes
 This project represents real-world development experience, not a tutorial or sample project.
