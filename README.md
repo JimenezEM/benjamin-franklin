@@ -15,12 +15,7 @@ https://benjamin-franklin.vercel.app
 - Scalable structure suitable for real-world clients
 
 ## Tech Stack
-React
-Vite
-JavaScript (ES6+)
-HTML5
-CSS
-(All functionality and interactivity implemented using React’s core features.)
+React, Vite, JavaScript (ES6+), HTML5, CSS.
 
 ## Design & Customization
 - Custom color palette and branding
